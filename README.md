@@ -57,7 +57,7 @@ img src="assests/borderseperator.gif">
     <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
   </a> &nbsp;&nbsp;
    <a href="https://dev.to/subrata_2003" target="_blank">
-    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
+    <img align="center" alt="My Dev.to link" height="50" width="50" src="assets/devtologo.png"/>
 </a> &nbsp;&nbsp;
   <a>
     <img align="center" alt="Join My Discord Server" height="50" width="50" src="assets/discordlogo.png"/>
