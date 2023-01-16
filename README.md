@@ -1,7 +1,8 @@
-![MasterHead](https://github.com/Over-Thinker/Over-Thinker/blob/main/subi.cpp.jpg)
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=41&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Subrata+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Subrata Welcome to my Profile! animated typed out">
+<img  src="">
 
 
-<h1 align="center">Hi 👋, I'm Subrata Bhuin</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
