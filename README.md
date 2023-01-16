@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats-i66v.vercel.app/api?username=Subrata2003&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div> <br>
 
-![Subrata's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Subrata2003&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
+![Subrata's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Subrata2003&custom_title=Subrata's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
 
 <p align="center">
 <img src="assets/loficity.gif" width="600" alt="Lofi Nightlife city scene" />
