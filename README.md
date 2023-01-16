@@ -1,13 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=41&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Subrata+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Subrata Welcome to my Profile! animated typed out">
-<img  src="">
+<img  src="assets/borderseperator.gif">
 
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=over-thinker&label=Profile%20views&color=0e75b6&style=flat" alt="over-thinker" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=over-thinker&label=Profile%20views&color=0e75b6&style=flat" alt="over-thinker" /> </p>
+<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 - 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **DSA with C++ and also Front end Web Development**
