@@ -42,7 +42,7 @@
 <img src="assets/loficity.gif" alt="Lofi Nightlife city scene" />
 </p>
 
-img src="assests/borderseperator.gif">
+<img src="assets/borderseperator.gif"/>
   <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/subratabhuin8918/" target="_blank">
