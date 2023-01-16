@@ -2,7 +2,9 @@
 <img  src="assets/borderseperator.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=over-thinker&label=Profile%20views&color=0e75b6&style=flat" alt="over-thinker" /> </p>
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+
+<img align='right' src="assets/nightlife.gif" width="350" alt="HyunSun's Dev Card" /></a>
+<h2 align="center"> Self-taught, curious, and <img src="assets/flamey.gif" width="30"/>passionate<img src="assets/flamey.gif" width="30"/> about coding!</h2>
 - 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **DSA with C++ and also Front end Web Development**
@@ -12,27 +14,52 @@
 - 📫 How to reach me **subratabhuin6@gmail.com**
 
 - ⚡ Fun fact **Sometimes all I need is Alt+F4 :)**
+<h2></h2><br>
 
 ### Glimpses of Holopin Badge got after contributing in Hactoberfest:~
 [![@subrata2003's Holopin board](https://holopin.me/subrata2003)](https://holopin.io/@subrata2003)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@subratabhuin2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@subratabhuin2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/subratabhuin8918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subratabhuin8918" height="30" width="40" /></a>
-<a href="https://fb.com/subrata bhuin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subrata bhuin" height="30" width="40" /></a>
-<a href="https://instagram.com/i_subi_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_subi_19" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/subratacsx8nd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subratacsx8nd" height="30" width="40" /></a>
+<div align="center">
+  <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=bash,git,linux,html,css,js,py,cpp" alt="skills actively learning logos"> <br> 
+  <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,express,sass,ts,netlify,mongodb" alt="skills planning to learn logos">
+</div>
+
+<p align="center"><br>
+  <img align="center" src="assets/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
+</p>
+  
+<div align="center">
+  <h2> <strong> My Github Stats </strong> <img src="assets/borderseperator.gif"></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Subrata2003&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+ <img src="https://streak-stats.demolab.com?    user=Subrata2003&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+<img src="https://github-readme-stats-i66v.vercel.app/api?username=Subrata2003&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+</div> <br>
+
+![HyunCafe's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Subrata2003&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
+
+<p align="center">
+<img src="assets/loficity.gif" alt="Lofi Nightlife city scene" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-![Subrata's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Subrata2003&layout=compact&langs_count=8&theme=onedark)
-
-![Subrata's Github Stats](https://github-readme-stats.vercel.app/api?username=Subrata2003&show_icons=true&theme=onedark)
-
-### Statistics:
-![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Subrata2003&theme=onedark&column=-1)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Subrata2003&theme=onedark&column=-1)
-<br>
-
+img src="assests/borderseperator.gif">
+  <h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/subratabhuin8918/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/Subrata2003" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:subratabhuin6@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
+  </a> &nbsp;&nbsp;
+   <a href="https://dev.to/subrata_2003" target="_blank">
+    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
+</a> &nbsp;&nbsp;
+  <a>
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assets/discordlogo.png"/>
+    <span>Subrata Bhuin#7726</span>
+</p> 
